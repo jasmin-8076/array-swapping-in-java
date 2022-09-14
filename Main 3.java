@@ -11,7 +11,7 @@ public class Main
 {
 	public static void main(String[] args) {
 	    
-	     array1[100];array2[100];
+	     array1[]=int array[];
 	    Scanner sc = new Scanner(System.in);
 		System.out.println("enter the array limit");
 	      int limit=sc.nextInt();
@@ -42,3 +42,4 @@ public class Main
 	}
 }
 }
+
